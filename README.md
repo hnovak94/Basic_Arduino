@@ -1,11 +1,18 @@
 # Arduino
 
-NewPing, HelloFunction, not so basic arduino assignments. 
+NewPing, HelloFunction, LCDBackpack, HelloLCD, LEDBlinkRevisited  
 
 
-My Arduino Assignments (Not so basic arduino)
 
 NewPing- Servo moves until distance reaches a certain point
 
-HelloFunction- Servo changes speed depending on distance
+HelloFunction
 
+For this assignment the goal was to get a servo to move using a function. The Functions used were called getDistance and microsecondsToCentimeters. getDistance is the ultrasonic sensor figuring out how far away an object is. 
+microsecondsToCentimeters converst the time it takes for the wave to come back to the sensor (in microseconds) into a distance (in centimeters).
+
+LCD Backpack
+
+Hello LCD
+
+LED Blink Revisited
