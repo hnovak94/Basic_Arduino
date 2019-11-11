@@ -1,12 +1,17 @@
 # Arduino
 
-NewPing, HelloFunction, not so basic arduino assignments. 
+Not So Basic Arduino 
 
-
-My Arduino Assignments (Not so basic arduino)
+NewPing, HelloFunction, LCD Backpack, Hello LCD, LED Blink Revisited
 
 NewPing- Servo moves until distance reaches a certain point
 
 HelloFunction- Servo changes speed depending on distance
 
-blah lhbbldljwflewnfonewf
+LCD Backpack- 
+
+Hello LCD-
+
+LED Blink Revisited-
+
+
