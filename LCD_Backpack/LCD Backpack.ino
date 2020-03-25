@@ -1,10 +1,14 @@
+// LCD Backpack
+// Harriet Novak
+// Make an LCD print number of times a button has been pressed
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 int buttonPin = 3; //arduino pin connected to button
-int buttonState = 0;
-int counter = 0;
-int previousbuttonState = 0;
+int buttonState = 0; // button state starts low
+int counter = 0; // sets counter equal to zero
+int previousbuttonState = 0; // button state before change
 
 
 void setup()
