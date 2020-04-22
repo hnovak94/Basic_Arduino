@@ -13,7 +13,7 @@ This assignment I learned how to use a function. I used a continous servo and an
 Looking at other students work on the CHS Sigma Wiki was helpful in understanding how to approach this assignment, because at first I wasn't sure what a function was supposed to do. Functions are really invaluable in coding, because they can really simplify your code, making it easier for others to read and understand. 
 
 ### Wiring
-![wiring diagram](http://wiki.chssigma.com/images/5/50/Ultrasonic_Sensor_with_Servo.PNG)
+<img src="http://wiki.chssigma.com/images/5/50/Ultrasonic_Sensor_with_Servo.PNG" width="450">
 
 Credit: Imogen A. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
 title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
@@ -25,6 +25,6 @@ This assignment I learned how to use new ping. I used a continous servo and an u
 I didn't understand the point or use of new ping when I started the assignment and looking at former students work on the CHS Sigma Wiki was extremely helpful. 
 
 ### Wiring
-![wiring diagram](http://wiki.chssigma.com/images/5/50/Ultrasonic_Sensor_with_Servo.PNG)
+<img src="http://wiki.chssigma.com/images/5/50/Ultrasonic_Sensor_with_Servo.PNG" width="450">
 
 Credit: Imogen A. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
