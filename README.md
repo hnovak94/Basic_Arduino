@@ -14,6 +14,7 @@ Looking at other students work on the CHS Sigma Wiki was helpful in understandin
 
 ### Wiring
 ![wiring diagram](http://wiki.chssigma.com/images/5/50/Ultrasonic_Sensor_with_Servo.PNG)
+
 Credit: Imogen A. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
 title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
 
@@ -25,4 +26,5 @@ I didn't understand the point or use of new ping when I started the assignment a
 
 ### Wiring
 ![wiring diagram](http://wiki.chssigma.com/images/5/50/Ultrasonic_Sensor_with_Servo.PNG)
+
 Credit: Imogen A. [CHS Sigma Wiki](http://wiki.chssigma.com/index.php?title=Imogen%27s_Engineering_2_Notebook#Wiring_.26_Pictures)
